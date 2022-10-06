@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nunito:wght@200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* global css  */
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f1f1f1;
+}
+
+div{
+    display: block;
+}
+
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+    color: #363958;
+    padding: 0;
+    margin: 0;
+}
+
+h3{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+    color: #363958;
+    padding: 0;
+    margin: 0;
+}
+
+
+h2{
+    font-family: 'bebas neue';
+    font-size: 48px;
+    color: #363958;
+}
+
+h4{
+    font-family: 'poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #363958;
+}
+
+h5{
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #363958;
+}
+
+/* --------header---------  */
+
+#header{
+    height: 100vh;
+    padding: 85px 0 70px 0px;
+    background-color: #f4f5ff; 
+}
+
+#header span{
+    font-weight: 700;
+}
+
+.custom-navbar{
+    background: #f1f1f1;
+}
+
+.custom-ul{
+    text-align: center;
+    background-color: #fff;
+}
+
+.shadow{
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .08) !important;
+}
+
+.custom-li{
+    font-weight: 700;
+    padding: 0 25px;
+}
+
+.custom-logo{
+    width: 30%;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.custom-highlight{
+    color: #dc3545;
+}
+
+.custom-btn{
+    background-color: #3d4ff3;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+
+.custom-card{
+    border-radius: 20px;
+    padding: 12px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border: none;
+}
+
+.custom-img-width{
+    width: 80px;
+}
+
+.custom-service-card{
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, .05);
+    border: none;
+}
+
+.custom-bg{
+    height: 350px;
+    background: #f1f1f1;
+    border-radius: 12px;
+}
+
+/* -------footer------- */
+
+#footer{
+    padding: 25px 15px;
+}
+
+footer h5{
+    padding: 10px 0;
+}
+
+#footer li a{
+    text-decoration: none;
+}
